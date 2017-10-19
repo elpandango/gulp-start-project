@@ -1,0 +1,21 @@
+{
+  "name": "start_project",
+  "description": "Start project with gulp",
+  "main": "",
+  "authors": [
+    "Eugen Radchenko"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "3.*"
+  }
+}
